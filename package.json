@@ -1,0 +1,8 @@
+{
+  "name": "MetropolisBot",
+  "version": "1.0.0",
+  "description": "Bot Discord da Metropolis",
+  "main": "bot.js",
+  "author": "MetropolisRP",
+  "dependencies": {}
+}
